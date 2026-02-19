@@ -33,7 +33,7 @@ async def render_html_to_jpg():
         # Format: "DD/MM/YY, HH:MM AM"
         trondheim_tz = ZoneInfo("Europe/Oslo")
         now = datetime.now(trondheim_tz)
-        timestamp = now.strftime("%d/%m/%y, %I:%M %p")
+        timestamp = now.strftime("%d/%m/%y, %H:%M")
 
         # Inject the render timestamp into the page
         await page.evaluate(f"""
