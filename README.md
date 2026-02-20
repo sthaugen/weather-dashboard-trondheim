@@ -7,4 +7,3 @@ It will end up on a display like this:
 
 
 ![weatherdashboard](https://github.com/user-attachments/assets/d287affe-dfb8-4ad2-88ef-0b835a5da1dd)
-![weatherdashboard](https://github.com/user-attachments/assets/d287affe-dfb8-4ad2-88ef-0b835a5da1dd)
